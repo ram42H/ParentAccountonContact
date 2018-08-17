@@ -8,3 +8,10 @@ c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountonCon
 c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountonContact\ParentAccountonContact\bin\Debug\Microsoft.Xrm.Sdk.xml
 c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountonContact\ParentAccountonContact\obj\Debug\ParentAccountonContact.dll
 c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountonContact\ParentAccountonContact\obj\Debug\ParentAccountonContact.pdb
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\bin\Debug\ParentAccountonContact.dll
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\bin\Debug\ParentAccountonContact.pdb
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\obj\Debug\ParentAccountonContact.csprojResolveAssemblyReference.cache
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\obj\Debug\ParentAccountonContact.dll
+C:\Users\meghana.nomula\Documents\GITHUB\ParentAccountonContact\ParentAccountonContact\obj\Debug\ParentAccountonContact.pdb
